@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bhavana Muthyam Pidugu.
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Computer Science and Engineering.
-- 💞️ I’m looking to collaborate on Coding.
 - 📫 How to reach me is with the mail bhavana.pidugu@sasi.ac.in
 
 <!---
